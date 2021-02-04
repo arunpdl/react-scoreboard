@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This app allows you to enter results of a game and view them on the leaderboard. Uses browser localstorage to persist the data.
 
+#### Demo: <https://leagueboard.netlify.app>
+
 ## Installation
 
 In the project directory, you can run:
