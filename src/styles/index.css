@@ -1,0 +1,19 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer base {
+  label {
+    @apply mb-2 uppercase font-bold text-lg text-gray-900;
+  }
+
+  input {
+    @apply border py-2 px-3 text-gray-900;
+  }
+
+  .error {
+    @apply mt-2 text-xs text-red-600;
+  }
+}
